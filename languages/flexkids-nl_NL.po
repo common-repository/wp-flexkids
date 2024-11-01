@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flexkids\n"
+"POT-Creation-Date: 2019-06-14 15:25+0200\n"
+"PO-Revision-Date: 2019-06-14 15:26+0200\n"
+"Last-Translator: Stephan Eizinga <stephan.eizinga@flexkids.nl>\n"
+"Language-Team: Stephan Eizinga\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class/Flexkids_Forms.php:270 class/Flexkids_Forms.php:271
+msgid "Flexkids Lead Sources"
+msgstr "Flexkids Leads bronnen"
+
+#: class/Flexkids_Forms.php:274 class/Flexkids_Forms.php:292
+#: class/Flexkids_Forms.php:310 class/Flexkids_Forms.php:328
+#: class/Flexkids_Forms.php:346 class/Flexkids_Forms.php:364
+msgid "Special"
+msgstr "Speciaal"
+
+#: class/Flexkids_Forms.php:288 class/Flexkids_Forms.php:289
+msgid "Flexkids Lead Statuses"
+msgstr "Flexkids Lead status"
+
+#: class/Flexkids_Forms.php:306 class/Flexkids_Forms.php:307
+msgid "Flexkids Lead Locations"
+msgstr "Flexkids Leads Locaties"
+
+#: class/Flexkids_Forms.php:324 class/Flexkids_Forms.php:325
+msgid "Flexkids Lead Care Types"
+msgstr "Flexkids Leads Opvangsoorten"
+
+#: class/Flexkids_Forms.php:342 class/Flexkids_Forms.php:343
+msgid "Flexkids Lead Languages"
+msgstr "Flexkids Leads Talen"
+
+#: class/Flexkids_Forms.php:360 class/Flexkids_Forms.php:361
+msgid "Flexkids Lead Countries"
+msgstr "Flexkids Leads Landen"
+
+#: class/Flexkids_Settings.php:56
+msgid "Flexkids Settings"
+msgstr "Flexkids Instellingen"
+
+#: class/Flexkids_Settings.php:56
+msgid "Flexkids"
+msgstr "Flexkids"
+
+#: class/Flexkids_Settings.php:130
+msgid "API User, Username or Password are incorrect"
+msgstr "API Gebruiker, Gebruikersnaam of wachtwoord is onjuist"
+
+#: class/Flexkids_Settings.php:208
+msgid "General"
+msgstr "Algemeen"
+
+#: class/Flexkids_Settings.php:209 class/Flexkids_Settings.php:275
+msgid "Locations"
+msgstr "Locaties"
+
+#: class/Flexkids_Settings.php:210
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: class/Flexkids_Settings.php:228
+msgid "FlexKIDS Hub Intergration"
+msgstr "Flexkids Integratie"
+
+#: class/Flexkids_Settings.php:234
+msgid ""
+"Object Cache is not activated, please activate your wordpress cache plugin "
+"first!"
+msgstr ""
+"U heeft de Object Cache nog niet geactiveerd in uw cache plugin, activeer "
+"eerst de Object Cache."
+
+#: class/Flexkids_Settings.php:254
+msgid "Cache childminders avatar"
+msgstr "Gastouders avatars lokaal opslaan"
+
+#: class/Flexkids_Settings.php:260
+msgid "Delete childminders cache"
+msgstr "Vernieuw gastouders avatars"
+
+#: class/Flexkids_Settings.php:276
+msgid "Locations (Group by caretype)"
+msgstr "Locaties (gegroepeerd op opvangsoort)"
+
+#: class/Flexkids_Settings.php:277
+msgid "Childminders"
+msgstr "Gastouders"
+
+#: class/Flexkids_Settings.php:278
+msgid "Childminders & Locations"
+msgstr "Gastouders & Locaties"
+
+#: class/Flexkids_Settings.php:279
+msgid "Childminders & Locations (Group by caretype)"
+msgstr "Gastouders & Locaties (gegroepeerd op opvangsoort)"
+
+#: class/Flexkids_Settings.php:301
+msgid "Flexkids API Environment"
+msgstr "Flexkids API Omgeving"
+
+#: class/Flexkids_Settings.php:303
+msgid "Production"
+msgstr "Productie"
+
+#: class/Flexkids_Settings.php:304
+msgid "Acceptance"
+msgstr "Acceptatie"
+
+#: class/Flexkids_Settings.php:309
+msgid "Flexkids API User"
+msgstr "Flexkids API Token"
+
+#: class/Flexkids_Settings.php:315
+msgid "Connector Username"
+msgstr "Connector Gebruikersnaam"
+
+#: class/Flexkids_Settings.php:322
+msgid "Connector Password"
+msgstr "Connector Wachtwoord"
+
+#: class/Flexkids_Settings.php:327
+msgid "Delete sales funnel cache"
+msgstr "Vernieuw alle sales funnel waardes"
+
+#: wp-flexkids.php:104
+msgid "You must set first Flexkids Hub Settings before you can use our plugin!"
+msgstr ""
+"U moet eerst Flexkids Hub instellingen opgeven voordat u door kunt gaan met "
+"onze plugin!"
+
+#~ msgid "Flexkids Lead Sources Hidden"
+#~ msgstr "Flexkids Leads bronnen (verborgen)"
